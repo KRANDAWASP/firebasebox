@@ -1,8 +1,16 @@
-| **_Information:mag:_**                                                                                                                                                                                                                                                                                   | **_Tech Stack:computer:_**                                                                                                                                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Feature List for ChatRoom Application:<br>1. User Authentication: Users can securely sign up, log in, and log out using Firebase Google authentication.<br>2. Chat Rooms: Users can send and receive text messages in real-time via chat rooms that supports group of ppl.<br>3. Image Sharing: Users can send images to other users in the chat.<br>4. Responsive Design: Application is optimized for all devices, with a modern, user-friendly design.<br>6-Data storage: All data is securely stored using Firebase, with automatic backups and disaster recovery.<br>Online-Preview: https://chatodasi.netlify.app/<br>After signing up you can join  room named "welcome" and send  a message |<a target="blank" href="https://sass-lang.com/guide"> SCSS </a> <br> <a target="blank" href="https://firebase.google.com/"> Firebase </a> |
+During cretaing this project ı have used these infrastructure tools:
+Realtime Database: This is a NoSQL cloud database that allows developers to store and synchronize data in real-time across multiple clients. It is useful for building real-time applications such as chat applications, gaming apps, and social media platforms.
 
-<h1>Preview</h1>
+Cloud Firestore: This is a flexible, scalable NoSQL cloud database that allows developers to store and sync data across multiple clients. It offers a rich set of features, such as real-time data synchronization, offline data access, and automatic scaling.
 
-![ezgif com-optimize](https://user-images.githubusercontent.com/109925130/217525975-43d4cb51-b11d-4563-a48a-9b290c9d681f.gif)
-# firebasebox
+Firebase Authentication: This is a service that enables developers to easily authenticate users with email and password, phone number, Google, Facebook, Twitter, and many other authentication providers.
+
+Firebase Hosting: This is a static and dynamic web hosting service that allows developers to deploy and serve their web applications quickly and easily. It offers SSL encryption, CDN integration, and automatic scaling.
+
+Firebase Cloud Messaging: This is a messaging service that allows developers to send notifications and messages to their users across different platforms such as iOS, Android, and the web.
+
+Firebase Functions: This is a serverless platform that allows developers to run their code in response to events triggered by Firebase services, HTTP requests, or other cloud services.
+
+Firebase Storage: This is a cloud storage service that allows developers to store and serve user-generated content such as images, videos, and audio files.
+
+![chrome-capture-2023-2-14](https://user-images.githubusercontent.com/116838694/224980343-5c810b5e-9ed8-4a9b-a1dd-dc308e4d4f96.gif)
